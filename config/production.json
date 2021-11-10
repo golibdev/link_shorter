@@ -1,0 +1,6 @@
+{
+   "port": 5000,
+   "jwtSecret": "golibdev nodejs backend developer",
+   "mongoUri": "mongodb://localhost:27017/merncourse",
+   "baseUrl": "http://localhost:5000"
+}
